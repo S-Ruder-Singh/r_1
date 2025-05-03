@@ -1,2 +1,2 @@
-# r_1
-first GIT REPO
+# Project_1
+Welcome to my first git project
